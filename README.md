@@ -4,10 +4,7 @@
 
 ## Sou um Marido, Goleiro, Desenvolvedor e Instrutor!!
 
-- 🔭 Próximo curso comigo: [Javascript Pro][course]!
-- 🌱 Atualmente estudando mais sobre testes e typescript
 - 👯 Quero começar a paticipar mais na comunidade open source
-- 🥅 Objetivo de 2020: aprender TS
 - ⚡ Curiosidade: Tenho 13 gatos e 4 cachorros. Sou goleiro e amo a cozinha 💓
 
 ### Se conecte comigo
